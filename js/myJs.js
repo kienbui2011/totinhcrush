@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Tớ biết mà ^^ Yêu cậu 3000",
   text11:
     "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+  text12: "Oke lu <3",
 };
 
 $(document).ready(function () {
@@ -115,7 +115,7 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/iput-bg.jpg")',
+      background: '#fff url("img/img/B35E9DD1-B29A-449D-BEEE-024235944A67_1_105_c.jpeg")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/giphy2.gif")
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("img/iput-bg.jpg")',
+          background: '#fff url("img/B35E9DD1-B29A-449D-BEEE-024235944A67_1_105_c.jpeg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
