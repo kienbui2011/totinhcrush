@@ -84,7 +84,6 @@ $(document).ready(function () {
   $("#no").click(() => {
     if (screen.width >= 900) switchButton();
   });
-
   // generate text in input
   function textGenerate() {
     var n = "";
